@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mayandev's github stats](https://github-readme-stats.vercel.app/api?username=mayandev "![Mayandev's github stats")](https://github.com/Mayandev)
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
 <!--START_SECTION:waka-->
 ```text
