@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayandev)]
 
 <!--START_SECTION:waka-->
 ```text
