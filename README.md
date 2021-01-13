@@ -22,7 +22,9 @@ I'm mayandev, a front-end developer.
 - ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
 - 🍴 Maybe you want to subscribe my Wechat Offical Account.
 
-![qrcode_for_gh_5dbad4a52584_258(1)](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_5dbad4a52584_258(1).jpg)
-
-
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+<table>
+  <tr>
+    <th><img src="https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_5dbad4a52584_258(1).jpg"/></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=mayandev"/></th>
+  </tr>
+</table>
