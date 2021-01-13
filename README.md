@@ -20,6 +20,9 @@ I'm mayandev, a front-end developer.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I am very interested in 🍿 movies and ⚽️ football.
+- 🍴 Maybe you want to subscribe my Wechat Offical Account.
+
+![qrcode_for_gh_5dbad4a52584_258(1)](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_5dbad4a52584_258(1).jpg)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
