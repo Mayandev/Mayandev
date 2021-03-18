@@ -2,7 +2,6 @@
 
 I'm mayandev, a front-end developer.
 
-- 🏢 I'm currently working at **ByteDance Company**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
