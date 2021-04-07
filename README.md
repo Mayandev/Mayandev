@@ -26,4 +26,7 @@ I'm mayandev, a front-end developer.
     <th><img src="https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/qrcode_for_gh_5dbad4a52584_258(1).jpg"/></th>
     <th><img src="https://github-readme-stats.vercel.app/api?username=mayandev"/></th>
   </tr>
+  <tr>
+    <img src="https://mayandev.top/running/assets/github_2021.svg"/>
+  </tr>
 </table>
