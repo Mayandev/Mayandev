@@ -9,12 +9,4 @@ I'm mayandev, a front-end developer.
 - 🎨  Learning to paint with iPad recently
 
 
-<table>
-  <tr>
-    <th><img src="https://mayandev.top/running/assets/github_2021.svg"/></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=mayandev"/></th>
-  </tr>
-  <tr>
-    
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=mayandev"/>
