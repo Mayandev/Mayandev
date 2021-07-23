@@ -4,7 +4,7 @@ I'm mayandev, a front-end developer.
 
 - 🎸 Play guitar to relax after work
 - ⚽️ Good at ball games, especially soccer
-- 🏃 Enjoy jogging, here is [my record](https://mayandev.top/running/)
+- 🚴 Enjoy cycling, here is [my cycling trip](https://mayandev.top/cycling/) from ShangHai to WuHan
 - ✍️ Write [blogs](https://mayandev.top) sometimes
 - 🎨  Learning to paint with iPad recently
 
