@@ -1,4 +1,4 @@
-![hello-im-mayandev](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/hello-im-mayandev.svg)
+![github-profile](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/github-profile.svg)
 
 # 👋 Hey there
 
